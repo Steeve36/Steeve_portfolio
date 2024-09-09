@@ -1,4 +1,4 @@
-# Steeve_portfolio
+# Portfolio_Steeve
 
 Bonjour et bienvenue sur mon portfolio. Ce dernier est complètement responsive, et s'adapte pour tout types d'appareils, il a été construit en HTML, CSS, et JavaScript.
 
